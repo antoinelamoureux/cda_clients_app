@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.antoinelamoureux.tp_angular_clients.resources.CorsFilterTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec <<< FAILURE!
+com.antoinelamoureux.tp_angular_clients.resources.CorsFilterTest.testFilter()  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.antoinelamoureux.tp_angular_clients.resources.CorsFilter.filter(CorsFilter.java:23)
+	at com.antoinelamoureux.tp_angular_clients.resources.CorsFilterTest.testFilter(CorsFilterTest.java:51)
+

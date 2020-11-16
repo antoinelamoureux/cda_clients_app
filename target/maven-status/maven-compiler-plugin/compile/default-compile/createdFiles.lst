@@ -1,0 +1,6 @@
+com/antoinelamoureux/tp_angular_clients/services/ClientsFacadeREST.class
+com/antoinelamoureux/tp_angular_clients/resources/CorsFilter.class
+com/antoinelamoureux/tp_angular_clients/resources/JavaEE8Resource.class
+com/antoinelamoureux/tp_angular_clients/entities/Clients.class
+com/antoinelamoureux/tp_angular_clients/JAXRSConfiguration.class
+com/antoinelamoureux/tp_angular_clients/services/AbstractFacade.class
